@@ -14,3 +14,4 @@
  ## Project Title
  
 ## Description
+Hello, my name is Nick Smith. This repository is for practicing the GitHub Flow.
